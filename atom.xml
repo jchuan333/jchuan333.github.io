@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jchuan333.github.io</id>
-    <title>3625</title>
-    <updated>2020-07-13T07:29:59.275Z</updated>
+    <title>Jchuan</title>
+    <updated>2020-07-13T08:30:15.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jchuan333.github.io"/>
     <link rel="self" href="https://jchuan333.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>参次多态，乃幸福本源</subtitle>
     <logo>https://jchuan333.github.io/images/avatar.png</logo>
     <icon>https://jchuan333.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 3625</rights>
+    <rights>All rights reserved 2020, Jchuan</rights>
     <entry>
         <title type="html"><![CDATA[Hello Worl]]></title>
         <id>https://jchuan333.github.io/post/hello-gridea/</id>
